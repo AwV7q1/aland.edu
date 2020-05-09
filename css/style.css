@@ -1,0 +1,33 @@
+.image {
+    width: 100%;
+    height: auto;
+
+ 
+}
+.content{
+    height: 190px;
+    
+}
+.all{
+    margin-top: 20px;
+    background-color: white;
+   padding:9px;
+}
+.content1{ 
+height=180px;
+}
+.header{
+    color: red;
+}
+.image1{
+    width: 100%;
+    height: auto;
+    padding: 5px;
+}    
+.line{
+    color: blue;
+    font-weight: 700;
+}
+.tiltle{
+    font-size: bold;
+}
